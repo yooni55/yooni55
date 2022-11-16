@@ -1,4 +1,4 @@
-[![header][https://capsule-render.vercel.app/api?type=wave&color=auto&heigh=300&section=header&text=유기현%20특강&fontSize=90)]
+![header][https://capsule-render.vercel.app/api?type=wave&color=auto&heigh=300&section=header&text=유기현%20특강&fontSize=90)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=yooni55)]
 
