@@ -1,19 +1,26 @@
-<image sr="images/kakao.jpg" heigh 200
+<image src="images/KakaoTalk_20221017_221212519_01.jpg">
 
-![header][https://capsule-render.vercel.app/api?type=wave&color=auto&heigh=300&section=header&text=유기현%20특강&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&heigh=300&section=header&text=kiki%20특강&fontSize=90)
 
+
+![python](https://img.shields.io/badge/-python-FF00FF?style=flate&logo=spring&logoColor=black)
+  
+[![Top Langs](http:s//github-readme-stats.vercel.app/api/top-langs/?username=yooni55&layout=compact)](https://github.com/yooni55/github-readme-stats)
+  
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=yooni55)]
 
 
 
-**두껍게** <br>
-*기울기*
-~~유기현결혼해~~ <br>
+**내이름은** <br>
+*yoon*
+~~거꾸로하면~~ <br>
 #유기현나랑결혼해
 - 1번
 - 2번
 [네이버](http://www.naver.com)
-:joy:
+🖤
+🐹
+  
 
 
 
